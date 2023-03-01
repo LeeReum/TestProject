@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\study\image move\image move\image move\bin\Release\image move.exe.config
+C:\Users\Administrator\Desktop\study\image move\image move\image move\bin\Release\image move.exe
+C:\Users\Administrator\Desktop\study\image move\image move\image move\bin\Release\image move.pdb
+C:\Users\Administrator\Desktop\study\image move\image move\image move\obj\Release\image move.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\study\image move\image move\image move\obj\Release\image move.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\study\image move\image move\image move\obj\Release\image move.exe
+C:\Users\Administrator\Desktop\study\image move\image move\image move\obj\Release\image move.pdb
