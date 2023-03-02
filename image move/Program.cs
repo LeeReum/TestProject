@@ -243,7 +243,7 @@ namespace image_move
                     Console.WriteLine("while문에서 오류발생");
                     start = false;
 
-
+                    string a = "asd";
                     int asd=0;
                 }
             }
