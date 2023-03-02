@@ -241,7 +241,10 @@ namespace image_move
                 {
                     Console.WriteLine(exception.GetType());
                     Console.WriteLine("while문에서 오류발생");
-                    start = false;  //asd
+                    start = false;
+
+
+                    int asd=0;
                 }
             }
         }
